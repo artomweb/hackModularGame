@@ -5,6 +5,9 @@ The aim of the game is to predict the vertical position of a "beeper" moving up 
 ![Original cript printout](image.png)
 From [hackmodular](https://www.youtube.com/@hackmodular)
 
+![Applesoft BASIC in JavaScript](https://github.com/user-attachments/assets/74356e44-972e-43e4-b81b-417a95e8ad0a)
+
+
 ### Line 3:
 
 ```basic

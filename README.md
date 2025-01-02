@@ -1,4 +1,4 @@
-I reversed engineered a simple game written in BASIC from this print out, the code snippet was incomplete, however I have made a working demo.
+I reverse engineered a simple game written in BASIC from this print out, the code snippet was incomplete, however I have made a working demo.
 
 The aim of the game is to predict the vertical position of a "beeper" moving up and down as it crosses the screen.
 
@@ -6,7 +6,6 @@ The aim of the game is to predict the vertical position of a "beeper" moving up 
 From [hackmodular](https://www.youtube.com/@hackmodular)
 
 ![Applesoft BASIC in JavaScript](https://github.com/user-attachments/assets/74356e44-972e-43e4-b81b-417a95e8ad0a)
-
 
 ### Line 3:
 

@@ -1,4 +1,4 @@
-I reverse engineered a simple game written in BASIC from this print out, the code snippet was incomplete, however I have made a working demo.
+I reconstructed a simple game written in BASIC from this printout. Although the code snippet was incomplete, I created a working demo.
 
 The aim of the game is to predict the vertical position of a "beeper" moving up and down as it crosses the screen.
 
